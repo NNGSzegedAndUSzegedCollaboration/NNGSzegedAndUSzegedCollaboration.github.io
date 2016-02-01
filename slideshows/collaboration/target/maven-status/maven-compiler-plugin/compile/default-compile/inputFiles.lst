@@ -1,0 +1,15 @@
+/home/pszak/projects/other/book-inventory-boot/src/main/java/org/talangsoft/bookinventory/api/RestErrors.java
+/home/pszak/projects/other/book-inventory-boot/src/main/java/org/talangsoft/bookinventory/config/MockGatewayConfiguration.java
+/home/pszak/projects/other/book-inventory-boot/src/main/java/org/talangsoft/bookinventory/api/BookDTO.java
+/home/pszak/projects/other/book-inventory-boot/src/main/java/org/talangsoft/bookinventory/gateway/IsbnGateway.java
+/home/pszak/projects/other/book-inventory-boot/src/main/java/org/talangsoft/bookinventory/config/HsqlConfiguration.java
+/home/pszak/projects/other/book-inventory-boot/src/main/java/org/talangsoft/bookinventory/domain/Book.java
+/home/pszak/projects/other/book-inventory-boot/src/main/java/org/talangsoft/bookinventory/Application.java
+/home/pszak/projects/other/book-inventory-boot/src/main/java/org/talangsoft/bookinventory/config/RestDevtoolsConfig.java
+/home/pszak/projects/other/book-inventory-boot/src/main/java/org/talangsoft/bookinventory/config/DatabaseConfiguration.java
+/home/pszak/projects/other/book-inventory-boot/src/main/java/org/talangsoft/bookinventory/web/BookResource.java
+/home/pszak/projects/other/book-inventory-boot/src/main/java/org/talangsoft/bookinventory/service/BookServiceImpl.java
+/home/pszak/projects/other/book-inventory-boot/src/main/java/org/talangsoft/bookinventory/service/BookService.java
+/home/pszak/projects/other/book-inventory-boot/src/main/java/org/talangsoft/bookinventory/web/BookResourceImpl.java
+/home/pszak/projects/other/book-inventory-boot/src/main/java/org/talangsoft/bookinventory/repository/BookRepository.java
+/home/pszak/projects/other/book-inventory-boot/src/main/java/org/talangsoft/bookinventory/web/UrlUtils.java

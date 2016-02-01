@@ -1,0 +1,3 @@
+org/talangsoft/bookinventory/integration/BookInventoryStepDefs.class
+org/talangsoft/bookinventory/integration/CommonRestCallStepDefs.class
+org/talangsoft/bookinventory/integration/BookInventoryIntegrationTest.class

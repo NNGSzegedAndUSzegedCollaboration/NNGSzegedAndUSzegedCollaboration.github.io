@@ -1,0 +1,16 @@
+org/talangsoft/bookinventory/config/DatabaseConfiguration.class
+org/talangsoft/bookinventory/config/MockGatewayConfiguration.class
+org/talangsoft/bookinventory/api/BookDTO.class
+org/talangsoft/bookinventory/web/BookResource.class
+org/talangsoft/bookinventory/web/BookResourceImpl.class
+org/talangsoft/bookinventory/config/HsqlConfiguration.class
+org/talangsoft/bookinventory/service/BookService.class
+org/talangsoft/bookinventory/config/MockGatewayConfiguration$1.class
+org/talangsoft/bookinventory/service/BookServiceImpl.class
+org/talangsoft/bookinventory/config/RestDevtoolsConfig.class
+org/talangsoft/bookinventory/repository/BookRepository.class
+org/talangsoft/bookinventory/Application.class
+org/talangsoft/bookinventory/gateway/IsbnGateway.class
+org/talangsoft/bookinventory/api/RestErrors.class
+org/talangsoft/bookinventory/web/UrlUtils.class
+org/talangsoft/bookinventory/domain/Book.class
